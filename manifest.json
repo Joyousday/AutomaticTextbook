@@ -1,0 +1,11 @@
+{
+	"id": "AutomaticTextbook",
+	"name": "AutoTextbook",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Automatically creates and maintains an index and glossary for Obsidian vualts.",
+	"author": "LilacNLavenders",
+	"authorUrl": "@joy_inc on Discord",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
